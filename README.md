@@ -9,6 +9,8 @@ Data Science - Model Selection techniques
 
 4- Mixed Model selection
 
-This project part of class Data Mining class. This assignment is only for examplary purpose.
+# Cross validation algorithm
 
-Code is intentionally distorted to avoid any plagiarism.
+This project is part of class of Data Mining. This assignment is only for examplary purposes.
+
+Codes are intentionally distorted to avoid any plagiarism.
