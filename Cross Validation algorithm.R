@@ -1,8 +1,6 @@
 ###########################################################
 #                      Data Mining                        #
-#                   Home Assignment 2                     #
-#                       Your Names                        #
-#                        Your IDs                         #
+#                     Narendar Kumar                      #
 ###########################################################
 gen_reg=function(n){
   x=rnorm(n,0,1)
