@@ -11,4 +11,4 @@ Data Science - Model Selection techniques
 
 This project part of class Data Mining class. This assignment is only for examplary purpose.
 
-Code is intentionally distorted to avoid any plagarism.
+Code is intentionally distorted to avoid any plagiarism.
